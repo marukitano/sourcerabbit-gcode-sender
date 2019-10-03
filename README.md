@@ -1,3 +1,13 @@
+I want only modify the GUI because i work on my CNC-chines with a Tablet and the buttons and menus are all to small for my big fingers. I am a absolute beginner in programming and only arange the swingcontrolls on a new place. No modification on the code behinde the GUI.
+
+What is the Goal:
+
+-Dark modern GUI for my Tablet
+-all controls little more big
+-Fullscreenmode for my tablet (i go over NX (NOMACHINE) in my Raspi and dont need any taskbars or something
+-wish me luck, i am a bloody beginner :)
+-Codename Grbl remote V1.0
+
 SourceRabbit GCode Sender
 ------
 <p align="center">
